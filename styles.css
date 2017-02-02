@@ -1,0 +1,21 @@
+.main {
+	width: 670px;
+	height: 330px;
+}
+
+#field {
+	/*background-color: #0ca6c9;*/
+	background-image: url(sailing-ship.jpg);
+	border: 2px solid black;
+	width:320px;
+	height: 320px;
+	float:left;
+	margin: 5px;
+}
+.cell {
+	border: 1px solid black;
+	width:30px;
+	height: 30px;
+	float:left;
+	border-radius: 5px 5px 5px 5px;
+}
